@@ -6,7 +6,7 @@
 <a href="mailto:facundopucheta94@gmail.com" target="blank">
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" alt="mail" height="33px" width="32px" />
   </a>
-  <a href="https://www.linkedin.com/in/facundo-pucheta-39ba85238/" target="blank">
+  <a href="https://www.linkedin.com/in/facundopucheta/" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"
     alt="linkedin" height="29px" width="33px" />
     </a></p>
