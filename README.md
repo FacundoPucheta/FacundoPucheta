@@ -1,4 +1,4 @@
-<h2 align="center">Hola, soy <span style="color: aquamarine">Facu</span> 👋</h2>
+<h2 align="left">Hola, soy <span style="color: aquamarine">Facu</span> 👋</h2>
 
 <h3>- Full Stack Developer  🌱 </h3>
 
