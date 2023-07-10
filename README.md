@@ -1,20 +1,20 @@
-<h1 align="left">Hola, soy Facu 👋</h2>
+<h1 align="left">Hello, I am Facu 👋</h2>
 <h3>- Full Stack Developer -</h3>
-<p><i>Como estudiante, disfruto estar en contacto con las tecnologías y tengo un gran interés en aprender y evolucionar junto a ellas  💡</i>
+<p><i>As a student, I find great enjoyment in being in contact with technology and have a strong interest in continuous learning and evolving alongside it.  💡</i>
   
 <br>
 <br>
 <blockquote>
-Mi experiencia en <b>Henry</b>, como también los estudios universitarios me han permitido desarrollar habilidades en:
+My experience in Henry, as well as my studies have shaped me in:
   <br>
   <br>
-🔹️Realización de proyectos de manera colaborativa 
+🔹️Collaborative project development 
   <br>
-🔹️Buena productividad y comunicación en el trabajo en equipo
+🔹️Teamwork (productivity and communication)
   <br>
   <br>
 </blockquote>
-<b>Me considero un <i>quick learner</i>, una persona adaptable y flexible ante los cambios que disfruta buscarle la vuelta a los problemas y lograr resolverlos.. </b> </p>
+<b>I consider myself a quick learner, someone who is adaptable to changes, and who thrives on thinking outside the box and solving problems.. </b> </p>
 
 
 <br>
@@ -24,7 +24,7 @@ Mi experiencia en <b>Henry</b>, como también los estudios universitarios me han
       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=facundopucheta&show_icons=true&locale=en&layout=compact" alt="facundopucheta" />
     </td>
     <td align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=facundopucheta&show_icons=true&locale=en" alt="facundopucheta" />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=facundopucheta&theme=light" alt="facundopucheta" />
     </td>
   </tr>
 </table>
@@ -38,7 +38,7 @@ Mi experiencia en <b>Henry</b>, como también los estudios universitarios me han
   <br>
   <br>
   
-  <h3 align="center">Qué tecnologías utilizo?</h3>
+  <h3 align="center">What tech am I using?</h3>
   <br>
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"           alt="html5" width="40" height="40"/> </a>
@@ -67,11 +67,11 @@ Mi experiencia en <b>Henry</b>, como también los estudios universitarios me han
   ---
   
   
-#### _Estoy motivado a conseguir experiencia/herramientas que me ayuden a desarrollarme como Full Stack Developer, y poder aplicar mis habilidades en nuevos proyectos!_
+#### _I am highly motivated to gain experience and acquire tools that will help me develop as a Full Stack Developer, allowing me to apply my skills to exciting new projects!_
 
 
 <div align="left"> 
-<h4>📫 No dudes en contactarme!</h4>
+<h4>📫 Hit me up!</h4>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:facundopucheta94@gmail.com" target="blank">
