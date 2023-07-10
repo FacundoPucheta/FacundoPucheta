@@ -79,9 +79,9 @@ My experience in Henry, as well as my studies have shaped me in:
 <a href="mailto:facundopucheta94@gmail.com" target="blank">
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" alt="mail" height="33px" width="32px" />
   </a>
-<a href="https://www.threads.net/@facundopucheta" target="blank"><img align="center" src="https://static.xx.fbcdn.net/rsrc.php/v3/yV/r/_8T3PbCSTRI.png" alt="facu_dev" height="27" width="30" /></a>
 <a href="https://www.linkedin.com/in/facundopucheta/" target="blank">
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="linkedin" height="29px" width="33px" />
    </a>
-    </div>
+<a href="https://www.threads.net/@facundopucheta" target="blank"><img align="center" src="https://static.xx.fbcdn.net/rsrc.php/v3/yV/r/_8T3PbCSTRI.png" alt="facu_dev" height="27" width="30" /></a>
+</div>
     
