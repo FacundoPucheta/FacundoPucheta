@@ -3,8 +3,9 @@
 <div style="display: flex; flex-direction: row;">
   <img src="https://github.com/FacundoPucheta/FacundoPucheta/assets/122935240/aadaa8ab-80ae-4094-9fc8-cfc7fe67eaaf" width="300" height="300" style="float: left;">
 
-  <p style="text-align: right;"><i>As a student, I find great enjoyment in being in contact with technology and have a strong interest in continuous learning and evolving alongside it. 💡</i></p>
 </div>
+<br>
+  <p style="text-align: right;"><i>As a student, I find great enjoyment in being in contact with technology and have a strong interest in continuous learning and evolving alongside it. 💡</i></p>
 <br>
 <br>
 <blockquote>
