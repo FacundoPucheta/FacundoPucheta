@@ -15,6 +15,22 @@ Mi experiencia en <b>Henry</b>, como también los estudios universitarios me han
   <br>
 </blockquote>
 <b>Me considero un <i>quick learner</i>, una persona adaptable y flexible ante los cambios que disfruta buscarle la vuelta a los problemas y lograr resolverlos.. </b> </p>
+
+
+<br>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=facundopucheta&show_icons=true&locale=en&layout=compact" alt="facundopucheta" />
+    </td>
+    <td align="center">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=facundopucheta&show_icons=true&locale=en" alt="facundopucheta" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
    
   ---
   
@@ -46,6 +62,7 @@ Mi experiencia en <b>Henry</b>, como también los estudios universitarios me han
 </div>
     
 <br>
+
    
   ---
   
