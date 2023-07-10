@@ -75,7 +75,7 @@ My experience in Henry, as well as my studies have shaped me in:
 
 <div align="left">
 <img src="https://github.com/FacundoPucheta/FacundoPucheta/assets/122935240/aadaa8ab-80ae-4094-9fc8-cfc7fe67eaaf" width="300" height="300" style="float: left;">
-<h4>📫 Hit me up!</h4>
+<h4>📫 <b>Hit me up!</b></h4>
 <a href="mailto:facundopucheta94@gmail.com" target="blank">
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" alt="mail" height="33px" width="32px" />
   </a>
