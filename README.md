@@ -1,9 +1,7 @@
 <h1 align="left">Hello, I am Facu 👋</h2>
 <h3>- Full Stack Developer -</h3>
-<div style="display: flex; flex-direction: row;">
-  <img src="https://github.com/FacundoPucheta/FacundoPucheta/assets/122935240/aadaa8ab-80ae-4094-9fc8-cfc7fe67eaaf" width="300" height="300" style="float: left;">
 
-</div>
+
 <br>
   <p style="text-align: right;"><i>As a student, I find great enjoyment in being in contact with technology and have a strong interest in continuous learning and evolving alongside it. 💡</i></p>
 <br>
@@ -69,19 +67,18 @@ My experience in Henry, as well as my studies have shaped me in:
 
    
   ---
+
   
   
 #### _I am highly motivated to gain experience and acquire tools that will help me develop as a Full Stack Developer, allowing me to apply my skills to exciting new projects!_
 
 
-<div align="left"> 
+<div align="left">
+<img src="https://github.com/FacundoPucheta/FacundoPucheta/assets/122935240/aadaa8ab-80ae-4094-9fc8-cfc7fe67eaaf" width="300" height="300" style="float: left;">
 <h4>📫 Hit me up!</h4>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:facundopucheta94@gmail.com" target="blank">
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" alt="mail" height="33px" width="32px" />
   </a>
-&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/facu_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="facu_dev" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/facundopucheta/" target="blank">
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="linkedin" height="29px" width="33px" />
