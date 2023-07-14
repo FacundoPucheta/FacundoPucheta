@@ -3,7 +3,7 @@
 
 
 <br>
-  <p style="text-align: right;"><i>As a student, I find great enjoyment in being in contact with technology and have a strong interest in continuous learning and evolving alongside it. 💡</i></p>
+  <p style="text-align: right;"><i>As a developer, I find great enjoyment in being in contact with technology and have a strong interest in continuous learning and evolving alongside it. 💡</i></p>
 <br>
 <br>
 <blockquote>
