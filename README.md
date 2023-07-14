@@ -70,7 +70,7 @@ My experience in Henry, as well as my studies have shaped me in:
 
   
   
-#### _I am highly motivated to gain experience and acquire tools that will help me develop as a Full Stack Developer, allowing me to apply my skills to exciting new projects!_
+#### _I am highly motivated to gain experience and acquire tools that will help me keep growing in the IT world, allowing me to apply my skills to exciting new projects!_
 
 
 <div align="left">
