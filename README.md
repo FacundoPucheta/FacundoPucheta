@@ -3,22 +3,10 @@
 
 
 <br>
-  <p style="text-align: right;"><i>As a developer, I find great enjoyment in being in contact with technology and have a strong interest in continuous learning and evolving alongside it. 💡</i></p>
+<p style="text-align: right;">As a developer, I find great enjoyment in being in contact with technology and have a strong interest in continuous learning and evolving alongside it. 💡</i></p>
 <br>
+<i>I consider myself a quick learner, someone who is adaptable to changes, and who thrives on thinking outside the box and solving problems.. </i> </p>
 <br>
-<blockquote>
-My experience in Henry, as well as my studies have shaped me in:
-  <br>
-  <br>
-🔹️Collaborative project development 
-  <br>
-🔹️Teamwork (productivity and communication)
-  <br>
-  <br>
-</blockquote>
-<b>I consider myself a quick learner, someone who is adaptable to changes, and who thrives on thinking outside the box and solving problems.. </b> </p>
-
-
 <br>
 <table align="center">
   <tr>
