@@ -58,11 +58,13 @@
 
   
   
-#### _I am highly motivated to gain experience and acquire tools that will help me keep growing in the IT world, allowing me to apply my skills to exciting new projects!_
 
 
 <div align="left">
 <img src="https://github.com/FacundoPucheta/FacundoPucheta/assets/122935240/aadaa8ab-80ae-4094-9fc8-cfc7fe67eaaf" width="300" height="300" style="float: left;">
+  
+#### _I am highly motivated to gain experience and acquire tools that will help me keep growing in the IT world, allowing me to apply my skills to exciting new projects!_
+
 <h4>📫 <b>Hit me up!</b></h4>
 <a href="mailto:facundopucheta94@gmail.com" target="blank">
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" alt="mail" height="33px" width="32px" />
