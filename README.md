@@ -73,6 +73,6 @@
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="linkedin" height="29px" width="33px" />
    </a>
 <a href="https://www.threads.net/@facundopucheta" target="blank"><img align="center" src="https://static.xx.fbcdn.net/rsrc.php/v3/yV/r/_8T3PbCSTRI.png" alt="facu_dev" height="27" width="30" /></a>
-<a href="https://twitter.com/Facu_dev" target="blank"><img align="center" src="https://seeklogo.com/images/T/twitter-x-logo-101C7D2420-seeklogo.com.png?v=638258862800000000" alt="facu_dev" height="27" width="30" /></a>
+<a href="https://twitter.com/Facu_dev" target="_blank"><img align="center" src="https://seeklogo.com/images/T/twitter-x-logo-101C7D2420-seeklogo.com.png?v=638258862800000000" alt="facu_dev" height="27" width="30" /></a>
 </div>
     
