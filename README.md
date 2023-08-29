@@ -48,7 +48,7 @@
     
 <div align="center"> 
   
-  🌱 I’m currently learning **TypeScript, Nest.js, MongoDB, Boostrap & Tailwind!** 
+  🌱 I’m currently learning **TypeScript, Nest.js, MongoDB/Mongoose, Boostrap & Tailwind!** 
 </div>
     
 <br>
