@@ -14,7 +14,7 @@
       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=facundopucheta&show_icons=true&locale=en&layout=compact" alt="facundopucheta" />
     </td>
     <td align="center">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=facundopucheta&theme=light" alt="facundopucheta" />
+     <img align="center" src="https://github-readme-stats.vercel.app/api?username=facundopucheta&show_icons=true&locale=en" alt="facundopucheta" />
     </td>
   </tr>
 </table>
