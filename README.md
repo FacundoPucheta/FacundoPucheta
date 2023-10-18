@@ -67,7 +67,7 @@
       <img src="https://github.com/FacundoPucheta/FacundoPucheta/assets/122935240/aadaa8ab-80ae-4094-9fc8-cfc7fe67eaaf" width="400" height="400" style="border: 1px solid #ccc" >
     </td>
     <td align="center">
-    <b> I am motivated to apply my skills in new projects, learn new ones and keep growing in the IT world!</b>
+    <b> I am motivated to apply my skills in new projects and keep growing in the IT world!</b>
     </td>
   </tr>
 </table>
