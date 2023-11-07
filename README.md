@@ -49,7 +49,7 @@
     
 <div align="center"> 
   
-  🌱 I’m interested in learning **Java &  Nest.js!** 
+  🌱 I’m interested in learning **Next.js & Nest.js!** 
 </div>
     
 <br>
