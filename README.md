@@ -3,9 +3,9 @@
 
 
 <br>
-<p style="text-align: right;">As a developer, I find great enjoyment in being in contact with technology and have a strong interest in continuous learning and evolving alongside it. 💡</i></p>
+<p style="text-align: right;">As a developer, I find great enjoyment in being in contact with technology and have a strong interest in continuous learning and transitioning to QA Testing 💡</i></p>
 <br>
-<i>I consider myself a quick learner, someone who is adaptable to changes, and who thrives on thinking outside the box and solving problems.. </i> </p>
+<i>I consider myself a quick learner, someone who is adaptable to changes, and who thrives on thinking outside the box and identifying issues with a keen eye.. </i> </p>
 <br>
 <br>
 <table align="center">
@@ -49,7 +49,7 @@
     
 <div align="center"> 
   
-  🌱 I’m interested in learning **Next.js & Nest.js!** 
+  🌱 I’m interested in learning **QA and Test foundations** 
 </div>
     
 <br>
