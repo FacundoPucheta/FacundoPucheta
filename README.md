@@ -1,5 +1,8 @@
 <h1 align="left">Hello, I am Facu 👋</h2>
-<h3>Tester QA Manual | Auto -  <i> w/ Full Stack Web Developer Foundations</i></h3>
+<div style="display: flex; align-items: center; white-space: nowrap;">
+  <h3>Tester QA Manual | Auto - </h3>
+  <h4><i> w/ Full Stack Web Developer Foundations</i></h4>
+</div>
 
 
 <br>
