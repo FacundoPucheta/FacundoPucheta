@@ -7,7 +7,7 @@
       <div align="center">
     <h1>Hello, I am Facu 👋</h1>
     <div style="display: flex; align-items: center; white-space: nowrap;">
-    <h3>Tester QA Manual | Auto -   <i>w/ Full Stack Web Developer Foundation</i></h3>
+    <h3>QA Automation Engineer -   <i>w/ Full Stack Web Developer Foundation</i></h3>
     </div>
     <br>
     <ul>
