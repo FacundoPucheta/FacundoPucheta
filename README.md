@@ -12,16 +12,12 @@
     <br>
     <ul>
       <li>
-    <p style="text-align: left;">As a developer, I find great enjoyment in being in contact with technology and have a strong interest in continuous learning and transitioning to QA Testing  🔎 </i></p>
-    <br>
-      </li>
-      <li>
     <p>I consider myself a quick learner, someone who is adaptable to changes, and who thrives on thinking outside the box and identifying issues with a keen eye..  💡 </p>
       </li>
     </ul>
     <br>
     <div align="center">
-        🌱 <b><i>Focused on growing professionaly in QA/Testing roles</i></b>
+        🌱 <b><i>Focused on growing professionaly in IT/Teamwork enviroments</i></b>
       </div>
     </td>
     </tr>
