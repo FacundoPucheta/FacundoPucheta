@@ -17,7 +17,7 @@
 
 ---
 
-<h3 align="center">What tech am I using?</h3>
+<h3 align="center">Tech Stack</h3>
 <br>
 <p align="center">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
